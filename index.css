@@ -10,9 +10,9 @@ div {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: blue;
+  background-color: black;
 }
 
 h1 {
-  color: red;
+  color: gold;
 }
